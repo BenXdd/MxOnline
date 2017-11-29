@@ -1,0 +1,4 @@
+Collecting django-crispy-forms
+  Using cached django_crispy_forms-1.7.0-py2.py3-none-any.whl
+Installing collected packages: django-crispy-forms
+Successfully installed django-crispy-forms-1.7.0

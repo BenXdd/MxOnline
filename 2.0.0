@@ -1,0 +1,10 @@
+Collecting django-reversion
+  Downloading django-reversion-2.0.10.tar.gz (62kB)
+Requirement already satisfied: django>=1.8 in c:\users\administrator\envs\mxonline\lib\site-packages (from django-reversion)
+Building wheels for collected packages: django-reversion
+  Running setup.py bdist_wheel for django-reversion: started
+  Running setup.py bdist_wheel for django-reversion: finished with status 'done'
+  Stored in directory: C:\Users\Administrator\AppData\Local\pip\Cache\wheels\28\3a\c5\e45b8c6df41738037eddf4a8b2b24f5955040acd78f580c005
+Successfully built django-reversion
+Installing collected packages: django-reversion
+Successfully installed django-reversion-2.0.10

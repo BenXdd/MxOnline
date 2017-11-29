@@ -1,0 +1,5 @@
+Collecting django-formtools
+  Using cached django_formtools-2.1-py2.py3-none-any.whl
+Requirement already satisfied: Django>=1.8 in c:\users\administrator\envs\mxonline\lib\site-packages (from django-formtools)
+Installing collected packages: django-formtools
+Successfully installed django-formtools-2.1
