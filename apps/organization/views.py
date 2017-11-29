@@ -12,3 +12,5 @@ class OrgView(View):
     # 7-2开始看
     def get(self,request):
         return render(request, "org-list.html", {})
+
+# git test
